@@ -1,5 +1,5 @@
 # Sales-Analytics-Dashboard
-##Overview
+## Overview
 This Sales Dahsboard was created using Microsoft Excel to analyze sales performance , profit trends, category-wise revenue, and regional business insights through interactive visualizations
 ## Key Insights
 -Revenue trend analysis 
